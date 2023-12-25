@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web-dev on Blog Page</title>
+    <link>https://sheel2007.github.io/categories/web-dev/</link>
+    <description>Recent content in web-dev on Blog Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Apr 2023 12:55:58 -0500</lastBuildDate>
+    <atom:link href="https://sheel2007.github.io/categories/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Your First Web Application with Python</title>
+      <link>https://sheel2007.github.io/building-web-app/</link>
+      <pubDate>Sat, 08 Apr 2023 12:55:58 -0500</pubDate>
+      <guid>https://sheel2007.github.io/building-web-app/</guid>
+      <description>Prerequisites Before we get started, you&amp;rsquo;ll need to have Python installed on your computer. You can download Python from the official website. We&amp;rsquo;ll also be using Flask, which is a Python web framework. You can install it using pip, the Python package manager, by running the following command:&#xA;pip install flask Creating a Basic Flask Application Once you have Flask installed, let&amp;rsquo;s create a basic Flask application. Create a new Python file and import the Flask class:</description>
+    </item>
+  </channel>
+</rss>
