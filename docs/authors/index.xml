@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Blog Page</title>
+    <link>https://sheel2007.github.io/blog/authors/</link>
+    <description>Recent content in Authors on Blog Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Apr 2023 12:55:58 -0500</lastBuildDate>
+    <atom:link href="https://sheel2007.github.io/blog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Angry Olive</title>
+      <link>https://sheel2007.github.io/blog/authors/angry-olive/</link>
+      <pubDate>Sat, 08 Apr 2023 12:55:58 -0500</pubDate>
+      <guid>https://sheel2007.github.io/blog/authors/angry-olive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

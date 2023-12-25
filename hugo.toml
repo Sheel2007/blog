@@ -1,4 +1,5 @@
 baseURL = 'https://sheel2007.github.io/blog/'
+publishDir = 'docs'
 languageCode = 'en-us'
 title = 'Blog Page'
 
