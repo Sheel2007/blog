@@ -7,7 +7,7 @@ image = "https://www.traininghamilton.com/wp-content/uploads/2023/08/vba-program
 imageBig = "https://www.traininghamilton.com/wp-content/uploads/2023/08/vba-programmer-1200x800.jpg"
 categories = ["intro", "python", "coding"]
 authors = ["Angry Olive"]
-avatar = "/images/profile.jpg"
+avatar = "/blog/docs/images/profile.jpg"
 +++
 
 ## So what even is programming?

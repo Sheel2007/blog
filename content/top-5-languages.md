@@ -7,7 +7,7 @@ image = "https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Prog
 imageBig = "https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg"
 categories = ["coding", "python"]
 authors = ["Angry Olive"]
-avatar = "/images/profile.jpg"
+avatar = "/blog/docs/images/profile.jpg"
 +++
 
 As technology continues to evolve at an unprecedented pace, programming languages remain essential tools for developers to create and innovate. The right programming language can help you build anything from simple scripts to complex web applications, mobile apps, and artificial intelligence systems. With that in mind, let's explore the top five programming languages to watch in 2023.

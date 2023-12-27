@@ -7,7 +7,7 @@ image = "https://i.insider.com/601441dd6dfbe10018e00c25?width=700"
 imageBig = "https://i.insider.com/601441dd6dfbe10018e00c25?width=700"
 categories = ["coding", "python", "intro"]
 authors = ["Angry Olive"]
-avatar = "/images/profile.jpg"
+avatar = "/blog/docs/images/profile.jpg"
 +++
 
 Python is a high level, dynamically typed programming language, which means that a programmer does not need to specify the data type of a variable when creating it. Instead, Python assigns the data type to the variable based on the value it is assigned.

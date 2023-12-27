@@ -7,7 +7,7 @@ image = "https://www.codingdojo.com/blog/wp-content/uploads/code-3.jpg"
 imageBig = "https://www.codingdojo.com/blog/wp-content/uploads/code-3.jpg"
 categories = ["coding", "web-dev", "python", "intro"]
 authors = ["Angry Olive"]
-avatar = "/images/profile.jpg"
+avatar = "/blog/docs/images/profile.jpg"
 +++
 
 ## Prerequisites

@@ -7,7 +7,7 @@ image = "https://miro.medium.com/v2/resize:fit:300/1*g3DvEfeVJSFqrMkDFj7wYw.png"
 imageBig = "https://miro.medium.com/v2/resize:fit:300/1*g3DvEfeVJSFqrMkDFj7wYw.png"
 categories = ["coding", "python", "intro"]
 authors = ["Angry Olive"]
-avatar = "/images/profile.jpg"
+avatar = "/blog/docs/images/profile.jpg"
 +++
 
 ## Reproduce the Issue
